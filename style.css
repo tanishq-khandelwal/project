@@ -1,0 +1,52 @@
+body
+{
+    height: 100vh;
+    flex-direction: column;
+    display:flex;
+    gap:5px;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./background.jpg");
+    background-size: cover;
+}
+
+.first
+{
+   height: 25px;
+   width: 100px;
+   shape-outside: oval;
+   <img src="Image profile.png">
+}
+
+.second
+{
+    
+    height:50px;
+    width:100px;
+
+}
+
+.outer
+{
+    
+    height:350px;
+    width:100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap:40px;
+}
+
+.a
+{
+    background-color:#7411ee33;
+    height: 50px;
+    width:290px;
+    top: 40px;
+    left:68px;
+    border-radius:27px;
+    padding:20px,82px,7px,7px;
+}
+
+
